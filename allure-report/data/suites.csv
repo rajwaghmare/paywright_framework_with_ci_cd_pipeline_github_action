@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7840","Validate user can login successfully and add product","chrome","Tue Jan 06 13:04:31 IST 2026","passed","Tue Jan 06 13:04:39 IST 2026","","verifyLoginFunctionality.spec.ts","",""
+"","7115","Validate user can login successfully","chrome","Fri Jan 02 17:31:29 IST 2026","passed","Fri Jan 02 17:31:36 IST 2026","","verifyLoginFunctionality.spec.ts","",""

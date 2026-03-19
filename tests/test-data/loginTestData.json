@@ -1,0 +1,16 @@
+{
+  "validUser": {
+    "username": "xyz1024@gmail.com",
+    "password": "9Q944hY$#wAnkuM"
+  },
+  "environMent": {
+    "production": {
+      "loginUrl": "https://rahulshettyacademy.com/client/#/auth/login",
+      "angularpracticeUrl": "https://www.rahulshettyacademy.com/angularpractice/"
+    }
+
+    
+    
+    
+  }
+}

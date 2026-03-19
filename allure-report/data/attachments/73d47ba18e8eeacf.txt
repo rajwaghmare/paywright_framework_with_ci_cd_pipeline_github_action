@@ -1,0 +1,9 @@
+[
+  'ZARA COAT 3$ 11500 View Add To Cart',
+  'ADIDAS ORIGINAL$ 11500 View Add To Cart',
+  'iphone 13 pro$ 55000 View Add To Cart'
+]
+Total products are: 3
+Total options are: 3
+"Email text is verified successfully"
+"Order success message is verified successfully"
